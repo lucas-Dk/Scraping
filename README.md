@@ -1,2 +1,7 @@
 # Scraping
-Script que faz scraping no site do Mercado Livre
+Script automático de buscas no Mercado Livre!
+
+# Comandos:
+- pip install -r requeriments.txt
+- Instale o chromedriver para rodar o script
+- Por padrão ele vai rodar em segundo plano
